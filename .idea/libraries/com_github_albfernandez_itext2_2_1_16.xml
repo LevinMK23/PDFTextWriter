@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.github.albfernandez:itext2:2.1.16" type="repository">
+    <properties maven-id="com.github.albfernandez:itext2:2.1.16" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/itext2-2.1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk15on-1.60.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcpkix-jdk15on-1.60.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcmail-jdk15on-1.60.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
